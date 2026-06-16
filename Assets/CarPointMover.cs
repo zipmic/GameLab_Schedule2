@@ -34,5 +34,8 @@ public class CarFollowSpline : MonoBehaviour
 
         transform.position = pos;
         transform.rotation = Quaternion.LookRotation(forward, up);
+
+
+
     }
 }
